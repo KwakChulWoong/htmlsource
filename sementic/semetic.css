@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+header {
+  background: tomato;
+  padding: 20px;
+  margin: 10px;
+}
+header nav ul {
+  display: flex;
+}
+header nav ul li {
+  list-style: non;
+  margin: 10px;
+}
+main {
+  display: flex;
+}
+section {
+  whidth: 70%;
+  background: rgb(77, 184, 148);
+  padding: 10px;
+  margin: 10px;
+  box-sizing: border-box;
+}
+article {
+  background: yellow;
+  padding: 20px;
+  margin: 10px;
+}
+aside {
+  width: 30%;
+  whidth: 70%;
+  background: rgb(77, 184, 148);
+  padding: 10px;
+  margin: 10px;
+  box-sizing: border-box;
+}
+footer {
+  heigth: 60px;
+  background: tomato;
+  padding: 10px;
+  margin: 10px;
+  box-sizing: border-box;
+}
+footer address a {
+  dispaly: block;
+}
